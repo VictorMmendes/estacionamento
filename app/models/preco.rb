@@ -1,0 +1,2 @@
+class Preco < ApplicationRecord
+end
